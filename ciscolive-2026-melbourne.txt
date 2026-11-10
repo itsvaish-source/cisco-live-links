@@ -1,0 +1,177 @@
+Title|URL
+123 - Enterprise Campus Wired Design Fundamentals - BRKENS-1501 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-1501.pdf
+3 Steps to Gain Actionable Visibility in the Cisco Catalyst SD-WAN using ThousandEyes - BRKENT-2126 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2126.pdf
+5 Ways to Leverage AI to Successfully Pass your Certification Exam - CISCOU-1066 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1066.pdf
+Accelerating Infrastructure Resilience in the Mythos Era - BRKCX-2643 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCX-2643.pdf
+Achieving Zero Trust Segmentation with Cisco Secure Firewall - CISCOU-1046 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1046.pdf
+ACI Design (Multi-Pod/Multi-Site) - BRKDCN-2617 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2617.pdf
+ACI Layer 4-7 Policy-Based Redirect (PBR) Deep Dive and Tips - BRKDCN-3982 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3982.pdf
+Active Defense and Adversary Engagement using Mitre Engage - BRKSEC-2182 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2182.pdf
+Advanced Border Gateway Protocol - BRKENT-3219 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-3219.pdf
+Advanced SDWAN design with Cisco Secure Firewall - BRKSEC-3058 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-3058.pdf
+Advanced Terraform: Moving Beyond the Scaffolding - CISCOU-2643 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2643.pdf
+AgenticOps in Motion: Cisco AI Canvas Across Cisco and Beyond - BRKAI-2028 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKAI-2028.pdf
+Agent-Led Operations: LLMs, MCP, and the Road to AgenticOps with ThousandEyes - BRKENT-2276 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2276.pdf
+Agents Assemble - Exploring Agentic AI Options for Network Operations - BRKOPS-1738 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOPS-1738.pdf
+AI in Cisco Certifications: Elevate Your Expertise - CISCOU-1585 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1585.pdf
+AI in Collaboration: Techniques and Architectures for Agentic Collaboration - BRKCOL-2589 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2589.pdf
+AI/ML for Network Engineers - BRKENT-2209 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2209.pdf
+AI Skills Primer for Network Engineers - BRKCRT-1596 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCRT-1596.pdf
+AI Threat and Security Research at Cisco and AI Security and Safety Framework Deep Dive - BRKSEC-2532 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2532.pdf
+A Journey from Visibility to Segmentation in OT Networks - BRKIIOT-2019 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKIIOT-2019.pdf
+A Network Engineer's Blueprint for ACI Forwarding - BRKDCN-3900 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3900.pdf
+A New Unified SDN Architecture for Transportation - BRKIIOT-2020 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKIIOT-2020.pdf
+An Introduction to Agentic AI - BRKAI-1010 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKAI-1010.pdf
+Ansible vs. Terraform: Choosing the Right DevOps Tool for Your Network, And Where and Why Does AI fit In? - BRKDEV-1150 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDEV-1150.pdf
+Architecting Intelligent Workplace Experiences - BRKCOL-2265 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2265.pdf
+Architecting Layer 4-7 Network Services in a Multi-Tenant Data Center with VXLAN EVPN - BRKDCN-2974 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2974.pdf
+Architecting Your CCNP Security Lab for Exam Success - CISCOU-1138 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1138.pdf
+Attackers Got Agentic. Your SOC Needs More Than Agents - BRKOBS-2629 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2629.pdf
+Automation After the Honeymoon Phase - CISCOU-2849 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2849.pdf
+Automation in Motion: Building Autonomous Networks with AIOps - BRKMSI-1257 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-1257.pdf
+Beginner's Guide to ThousandEyes - BRKENT-1656 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-1656.pdf
+Beyond AI Agents: Building the Relationship Enterprise with Cisco Dialog - BRKCOL-2591 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2591.pdf
+Beyond Discovery: Closed-Loop Network Operations with NetBox Labs and Cisco Nexus Dashboard - CISCOU-2307 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2307.pdf
+Beyond Limits: The Innovative Journey of Industry 4.0 to 5.0, and Beyond - BRKIIOT-1007 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKIIOT-1007.pdf
+Beyond the Captive Portal: Guest Wi-Fi, Loyalty, CRM, and Monetization with Cisco Wireless - BRKEWN-2524 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2524.pdf
+Beyond the Dashboard: Automating Catalyst Center and Meraki with AI and MCP - BRKENT-2267 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2267.pdf
+Beyond the Edge: BGP Visibility Inside Your Own Network - BRKENS-2732 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2732.pdf
+Bring Your Own AI Skills: How Cisco IT Cut Incident MTTR by 90% with Agentic Network Operations - BRKCOC-2361 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOC-2361.pdf
+Building a Full-Stack, AI-Optimised Data Center - BRKCOM-2115 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-2115.pdf
+Building AI-Scale Infrastructure: Architectural Changes in Data Centers and Optical Networks - BRKMSI-2306 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2306.pdf
+Building Intelligent Network Operations with Cisco Data Fabric and Splunk Platform - BRKOBS-2628 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2628.pdf
+Building the Foundation: Announcing the Cisco OT Security Practitioner Certification - CISCOU-1662 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1662.pdf
+Building the Next Generation of Cisco Engineers: How Project 525 and Cisco Are Developing Future-Ready CCNP, CCIE and CCDE Talent - CISCOU-2657 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2657.pdf
+Campus Network Evolution: Why Fabrics? Benefits, Fundamentals, Designing and Deploying a Modern Fabric Architecture - BRKENS-2204 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2204.pdf
+Campus Switching Innovations for Future Proofed Workspaces - BRKENS-2609 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2609.pdf
+Catalyst 9000 Switching Automation Day-0 to Day-N with Cisco Catalyst Center - BRKENS-2817 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2817.pdf
+CCNP Enterprise Network Troubleshooting Deep Dive - BRKCRT-2285 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCRT-2285.pdf
+Cisco 8000 Advanced Troubleshooting: Tools & Techniques - BRKMSI-3211 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-3211.pdf
+Cisco 8010: Driving Sustainable High-Performance Networking - BRKMSI-2064 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2064.pdf
+Cisco Catalyst Center Network Operations Essentials using UI and APIs - CISCOU-2148 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2148.pdf
+Cisco Catalyst SD-WAN Fundamentals - CISCOU-1223 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-1223.pdf
+Cisco Catalyst SD-WAN: Your Starting Point for SASE - BRKENT-2108 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2108.pdf
+Cisco ISE Meets Azure Cloud, Deploy, Automate, Integrate with Entra ID and Intune - BRKSEC-2416 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2416.pdf
+Cisco N9000 Architecture - BRKDCN-3688 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3688.pdf
+Cisco Nexus One and Isovalent: Seamless Networking for Virtualized and Cloud-Native Workloads - BRKDCN-3687 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3687.pdf
+Cisco Nexus Smart Switches with DPUs: A Window To A Transparent Secure Data Center Network Architecture - BRKDCN-2943 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2943.pdf
+Cisco SD-Access LISP VXLAN Fabric Best Practices: Design and Deployment - BRKENS-2502 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2502.pdf
+Cisco Silicon and Quantum Networking: Exploring the Future - BRKNWT-2625 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKNWT-2625.pdf
+Cisco Wireless: Design, Deploy, Automate and Optimize with Catalyst Center - BRKEWN-2306 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2306.pdf
+Cisco Wireless Network Architecture and Design - BRKEWN-2002 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2002.pdf
+Cloud Managed Access and Core Switching with Meraki Dashboard - BRKENS-1402 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-1402.pdf
+Cloud-Orchestrated EVPN Campus Fabric Technical Deep Dive with Agentic Troubleshooting - BRKTRS-2241 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKTRS-2241.pdf
+Collaboration Control Hub and Agentic Ops - BRKCOL-2592 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2592.pdf
+Correlating Network and Application: Visualize ThousandEyes Network Path in Splunk - CISCOU-2159 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2159.pdf
+Data Federation Made Easy with Cisco Data Fabric - BRKOBS-2624 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2624.pdf
+Demystifying AI Infrastructure for a Network Engineer - BRKDCN-2971 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2971.pdf
+Deploying Nexus Dashboard in Your Organization - BRKDCN-2914 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2914.pdf
+Design, Automate, and Simplifying VXLAN EVPN Multi-Site Architectures with Nexus Dashboard Federation - BRKDCN-2988 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2988.pdf
+Design, Automate and Visualize your AI Clusters with Nexus Dashboard - BRKDCN-1663 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-1663.pdf
+Designing and Delivering Hybrid Architectures with Cisco Calling - BRKCOL-1527 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-1527.pdf
+Designing for Large and Multipurpose Rooms with AI and AVoIP - BRKCOL-2533 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2533.pdf
+Digital Resilience by Design: Evaluating the Business Impact of AI Agents - BRKOBS-2630 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2630.pdf
+Discover the Invisible World of Wireless with Spectrum Analysis - BRKEWN-1011 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-1011.pdf
+Diverse Virtualization Deployment Strategies with Cisco UCS: VMware, Red Hat, Nutanix, and More - BRKCOM-2460 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-2460.pdf
+End-to-End Segmentation with Cisco SASE: Connecting Macro and Micro Policy - BRKENS-2177 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2177.pdf
+Enhancing Cloud-Native Security: Isovalent's CNI Innovations in Kubernetes - BRKSEC-2891 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2891.pdf
+EVPN Campus: Design and Implementation - BRKENS-2041 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2041.pdf
+EVPN Deep Dive with IOS-XR Configuration Examples for Service Provider Metro and Data Center - BRKMSI-2614 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2614.pdf
+Expedite your Troubleshooting with SD-WAN Manager Tools - BRKTRS-2595 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKTRS-2595.pdf
+Final Frontier - Security Playbook for the AI era - BRKSEC-1785 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-1785.pdf
+From AI Pilots to Autonomous Enterprises: What Actually Breaks at Scale - BRKCOM-2309 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-2309.pdf
+From AI Pilots to Production: Securing Enterprise & Sovereign AI with Cisco Secure AI Factory - BRKCOM-2690 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-2690.pdf
+From Automation to Autonomy: Building Trustworthy Agentic AI for Network Operations with Cisco Crosswork AI - BRKMSI-1390 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-1390.pdf
+From Chatbots to Agentic AI: Security in a Non-Deterministic World - BRKSEC-2734 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2734.pdf
+From CLI to Cloud-Management: Simplifying IOS XE Operations - BRKENT-2437 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2437.pdf
+From Experiment to Production: A Guide to Trustworthy, Resilient AI Agents with Splunk - BRKOBS-2656 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2656.pdf
+From Shadow AI to Zero Trust: How Cisco Identity Secures Agents, MCPs, and NHIs - BRKSEC-2716 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2716.pdf
+Getting Back to Basics: Why Wireless Networks Fail and How to Fix Them - BRKEWN-2196 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2196.pdf
+Get Your Time Back with Infrastructure AIOps - BRKOPS-2437 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOPS-2437.pdf
+ How CCIEs Troubleshoot Enterprise Networks: Real Lessons from TAC - CISCOU-2480 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2480.pdf
+How Cisco Built MyAgent: Scaling Secure Enterprise Autonomous Agents - BRKCOC-2490 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOC-2490.pdf
+How to Adopt Zero Trust using SD-Access and Default-Deny without Tears - BRKENS-3810 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-3810.pdf
+How to Plan, Design & Implement Industrial Wireless Technology for Reliable Backhaul & Wi-Fi Services - BRKIIOT-2632 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKIIOT-2632.pdf
+How To Thrive as a Wireless Networker Using Agentic Engineering - BRKEWN-2039 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2039.pdf
+How We Orchestrate it All Together: Cisco Devices with Secure Network - BRKCOL-2562 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2562.pdf
+Identity Intelligence Demystified - BRKSEC-2162 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2162.pdf
+Implementing a Context-Driven Customer Experience - BRKCCT-2594 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCCT-2594.pdf
+Inside Cisco Cloud Control: The Unified Platform for Cross-Domain AgenticOps - BRKAI-2622 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKAI-2622.pdf
+Inside the Network: Extending Firewall Security with Network Visibility and Behaviour Detection - BRKSEC-2601 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2601.pdf
+Integrating Collaboration with your Microsoft environment - BRKCOL-2523 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2523.pdf
+Intent Based Security and End to End Security Policy Enforcement - BRKSEC-2599 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2599.pdf
+Introduction to VXLAN: The Future Path of Your Data Center - BRKDCN-1621 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-1621.pdf
+IP Measurements (IPM) Solution Blueprint for AI-Ready SP Networks - BRKMSI-2615 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2615.pdf
+Keeping Up on Network Security with Cisco Secure Firewall - BRKSEC-2236 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2236.pdf
+Keeping Up with Zero Trust - BRKSEC-2176 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2176.pdf
+Lab Up For Success With Cisco Modeling Labs - BRKCRT-2059 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCRT-2059.pdf
+Lessons from the Field: Cisco IT’s Journey to Modernise Enterprise Campus with AI-Enabled Automation and Wireless Technologies - BRKCOC-2206 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOC-2206.pdf
+Making Your WAN Quantum-Safe with IOS XE - BRKENT-2055 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2055.pdf
+Manage, Operate, and Optimize High-Performance Storage Area Networks - BRKDCN-3641 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3641.pdf
+Managing End-to-End Customer Journeys - BRKCCT-1552 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCCT-1552.pdf
+Mastering Cisco UCS and Intersight: Innovations, Best Practices and Troubleshooting - BRKCOM-2456 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-2456.pdf
+Mastering Day 2 Operations for Cisco Firewalls Proven TAC Insights for Operational Excellence and Uptime - BRKSEC-2041 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2041.pdf
+Mastering Intent-Based Automation with Cisco Agentic Workflows - BRKOPS-2532 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOPS-2532.pdf
+Mastering IOS-XE Troubleshooting: Eight Essential Tools to Diagnose and Resolve Network Issues - BRKTRS-3176 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKTRS-3176.pdf
+MCP-Powered Network Automation: Building Self-Healing Networks with Agentic AI - CISCOU-2093 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2093.pdf
+Meraki Cloud Networking for the CLI Wired Brain - BRKTRS-2008 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKTRS-2008.pdf
+Meraki SD-WAN But Not As You Know It - BRKENT-2567 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2567.pdf
+Mitigation of Adversarial Attacks on Generative AI and Agentic with Cisco's AI Defense - BRKSEC-2047 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2047.pdf
+Model. Test. Deploy. Accelerating Network Deployments with Cisco Modeling Labs - BRKOPS-2550 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOPS-2550.pdf
+Modern Authentication Explained to the Network Professional - BRKSEC-2144 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2144.pdf
+Network as Code: Data Models & Automation for ND VXLAN EVPN & ACI - BRKDCN-2686 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2686.pdf
+Network Automation Simplified: Building AI Agents - CISCOU-2394 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2394.pdf
+Next-Generation AI-Ready WAN Architecture for Enterprise and Public Sector Networks - BRKMSI-1073 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-1073.pdf
+Next-Gen Indoor Navigation: Architecture, Deployment, and Troubleshooting with Cisco Wireless and Spaces - BRKEWN-2046 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2046.pdf
+Nexus One: An Architecture For Your Cisco Data Center of Tomorrow - BRKDCN-2602 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2602.pdf
+Nexus One: Setting up a Multi-Fabric Domain with ACI and EVPN/VXLAN NXOS Fabrics using Nexus Dashboard - BRKDCN-2981 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2981.pdf
+No Greenfield Required: Discovering and Managing Brownfield Networks with Catalyst Center 3.x - BRKENS-2607 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENS-2607.pdf
+One Observability Strategy for Every Workload: From Legacy Applications to Cloud Native and AI Agents - BRKOBS-2627 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2627.pdf
+One Policy, Any Firewall: Simplifying Protection with Cisco Hybrid Mesh Firewall - BRKSEC-2600 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2600.pdf
+One Step Ahead: Detecting and Defeating Adversarial Attacks with Cisco XDR and Splunk ES - BRKOBS-2625 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2625.pdf
+On-Prem AI Agents: Real-Time Syslog Insights - BRKDEV-2149 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDEV-2149.pdf
+Pig-in-the-Middle - TLS Decryption and Encrypted Visibility Engine Deep Dive on Cisco Secure Firewall - BRKSEC-3320 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-3320.pdf
+QoS Demystified: Building Smarter Networks with Cisco IOS-XE - No Experience Needed! - BRKARC-2039 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKARC-2039.pdf
+QoS Evolution for Service Providers: Next-Gen Architectures with Cisco 8000 and Silicon One - BRKMSI-2429 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2429.pdf
+Quantum Safe Cryptography (and why you need it) - BRKSEC-2175 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2175.pdf
+Real-Time Observability with Splunk (and AI) - CISCOU-2650 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2650.pdf
+Revolutionizing Industrial Operations: Unveiling the Power of AI in IIoT with Cisco Solutions and Emerging Industry Trends - BRKIIOT-2721 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKIIOT-2721.pdf
+RoomOS the Open Integration Platform - BRKCOL-2525 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2525.pdf
+SASE with Cisco Secure Access - BRKSEC-1708 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-1708.pdf
+Scale-What? Up, Out, Across - Demystifying Large Network Fabric Scaling for Artificial and Normal Intelligence - BRKMSI-2029 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2029.pdf
+Scapy on Nexus: Packet-Level Troubleshooting and Failover Optimization for Data Center Networks - CISCOU-2274 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2274.pdf
+Secure Your Infrastructure Before the Bad Actors Do It For You! - BRKSEC-3028 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-3028.pdf
+Securing the Autonomous Enterprise: Agentic AI Security Strategies - CISCOU-3140 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-3140.pdf
+Securing the Network Edge: A Practical Guide to Automated Device Profiling and Segmentation - BRKSEC-2208 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2208.pdf
+Securing Wireless Networks with Cisco Identity Services Engine and Access Manager - BRKEWN-2047 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2047.pdf
+Security in Cisco Cloud Control: From Unified Policy to Agentic Operations - BRKSEC-2725 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2725.pdf
+Security Unleashed: How Talos and Cisco Secure Firewall Leverage Machine Learning for Cutting-Edge Protections - BRKSEC-1042 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-1042.pdf
+Seeing inside the Vortex: Detecting threats living off the LAN - BRKSEC-2087 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2087.pdf
+ShieldsUp! Live Protect on Cisco Firewalls - BRKSEC-2598 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2598.pdf
+Simplifying Cisco Catalyst Center 3.X Platform Refresh Upgrades: Proven Tips and Troubleshooting Techniques - BRKOPS-2117 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOPS-2117.pdf
+Solving the Detection Dilemma - Underpinning SOC Foundations for an Enduring Agentic Future - BRKOBS-2626 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKOBS-2626.pdf
+SRv6 Deep Dive: Architecture, Traffic Engineering, and Deployment Best Practices - BRKMSI-2053 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKMSI-2053.pdf
+Starlink Security Advanced - BRKSEC-2173 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2173.pdf
+The Anatomy of an AP - BRKEWN-2699 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2699.pdf
+The Power of the Cisco Collaboration Platform - BRKCOL-1534 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-1534.pdf
+The Prompt Surgeon: Automating Enterprise-Grade AI Guardrails at Scale - CISCOU-2413 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2413.pdf
+Troubleshooting Collaboration - BRKCOL-3531 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-3531.pdf
+Troubleshooting like a CCNA - Get ready for the 2.0 Exam - BRKCRT-1583 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCRT-1583.pdf
+UCS and Intersight Automation at Cloud Speed: Simplify IaC for Full-Stack Solutions with Stack Automation - BRKCOM-1565 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-1565.pdf
+Understanding how AI Assistant addresses both Employee Experiences and Customer Experiences - BRKCOL-2593 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2593.pdf
+Understanding Nexus Hyperfabric: a Groundbreaking Cloud-Controlled Data Center Network Solution - BRKDCN-2944 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2944.pdf
+Understanding the Quantum Threat and How to Protect Your Organization From It - BRKCX-1402 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCX-1402.pdf
+Understanding Webex Workforce Engagement for the Hybrid AI Workforce - BRKCOL-2590 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2590.pdf
+Unified Edge Hardware Deep Dive: Field-Tested Insights and Differentiated Strategies for Cisco Unified Edge - BRKCOM-1136 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOM-1136.pdf
+Universal Zero Trust & SASE Convergence: Architecting the Future of Secure Access with AI-Driven Edge Security - BRKSEC-2722 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2722.pdf
+Unlocking Day2 Ops Excellence: Nexus Dashboard Innovations for ACI and NX-OS N9K Fabrics - BRKDCN-3924 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-3924.pdf
+Unlock the Power of Live Protect: Defend Smarter, Not Harder - BRKENT-2609 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKENT-2609.pdf
+UWB-based Precise Asset Tracking with Cisco Wireless & Cisco Spaces: Architecture, Deployment, and Troubleshooting - BRKEWN-2045 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2045.pdf
+VXLAN/EVPN Design and Forwarding - BRKDCN-2614 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKDCN-2614.pdf
+Webex Security, Privacy, Compliance and Australian Data Residency - BRKCOL-2561 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKCOL-2561.pdf
+What is Cisco Doing in Quantum? An Introduction to Quantum Mechanics and Networking - BRKETI-1401 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKETI-1401.pdf
+When Patching Is Not Fast Enough: Reducing Exposure and Containing Attack Paths - CISCOU-2447 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/CISCOU-2447.pdf
+Why Don't You Trust Me? Taking the Pain Out of Certificates - BRKXAR-2047 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKXAR-2047.pdf
+Wi-Fi 7 in Production: Migrating Your Cisco 9800 Deployment from Wi-Fi 6 or earlier - BRKEWN-2082 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2082.pdf
+Wireless Security Standards - BRKEWN-2606 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKEWN-2606.pdf
+Workload Security: From Challenge to Opportunities Using Cisco Security - BRKSEC-2571 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2026/pdf/BRKSEC-2571.pdf
